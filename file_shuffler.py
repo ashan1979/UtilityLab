@@ -17,5 +17,5 @@ def shuffle_workload():
     focus_task = random.choice(tasks)
     print(f"\n🚀 Your focus right now: {focus_task}")
 
-if __name__ == "--main--":
+if __name__ == "__main__":
     shuffle_workload()
