@@ -1,0 +1,10 @@
+# PyCharm internal Settings
+.idea/
+
+# Virtual Environtment (the engine)
+.venv/
+venv/
+
+# Python Cache Files
+__pycache__/
+*.pyc
