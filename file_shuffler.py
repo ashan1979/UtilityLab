@@ -3,7 +3,7 @@ import os
 
 def shuffle_workload():
     # 1. A list of tasks or files you're procrastinating on
-    tasks = ["Update Readme", "Fix identity_bug", "Clean Downloads", "Organize Samples"]
+    tasks = os.listdir('.')
 
     print(f"Original order: {tasks}")
 
