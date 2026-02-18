@@ -4,14 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c2026324-a26e-4e38-bce5-196bc7aa5f44" name="Changes" comment="Syntax Error Correction">
-      <change afterPath="$PROJECT_DIR$/.idea/UtilityLab.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Generative_Song_Starter.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/file_shuffler.py" beforeDir="false" afterPath="$PROJECT_DIR$/file_shuffler.py" afterDir="false" />
+    <list default="true" id="c2026324-a26e-4e38-bce5-196bc7aa5f44" name="Changes" comment="Song Vibe Tool to Demonstrate Some of the Random Library Functions">
+      <change afterPath="$PROJECT_DIR$/PyCalc.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,6 +54,7 @@
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "Python.Generative_Song_Starter.executor": "Run",
+    "Python.PyCalc.executor": "Run",
     "Python.file_shuffler.executor": "Run",
     "Python.identity_gen.executor": "Run",
     "RunOnceActivity.MCP Project settings loaded": "true",
@@ -82,7 +78,7 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-3944b0c99280-6d6dccd035ac-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-253.30387.127" />
+        <option value="bundled-python-sdk-4762d8aabb82-6d6dccd035ac-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-253.30387.173" />
       </set>
     </attachedChunks>
   </component>
@@ -128,7 +124,15 @@
       <option name="project" value="LOCAL" />
       <updated>1769706283604</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Song Vibe Tool to Demonstrate Some of the Random Library Functions">
+      <option name="closed" value="true" />
+      <created>1770199859766</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1770199859766</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -139,7 +143,8 @@
     <MESSAGE value="Add gitignore" />
     <MESSAGE value="Workload Shuffle Tool :P" />
     <MESSAGE value="Syntax Error Correction" />
-    <option name="LAST_COMMIT_MESSAGE" value="Syntax Error Correction" />
+    <MESSAGE value="Song Vibe Tool to Demonstrate Some of the Random Library Functions" />
+    <option name="LAST_COMMIT_MESSAGE" value="Song Vibe Tool to Demonstrate Some of the Random Library Functions" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/UtilityLab$identity_gen.coverage" NAME="identity_gen Coverage Results" MODIFIED="1769704232658" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
