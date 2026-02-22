@@ -1,4 +1,4 @@
-heart_beats = [70, 80, 90]
+heart_beats = list(map(int, input("Enter Your Heart Beat Numbers Separated by a space:").split()))
 king = heart_beats[0]
 # print(king)
 
