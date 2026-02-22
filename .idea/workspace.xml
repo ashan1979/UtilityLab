@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c2026324-a26e-4e38-bce5-196bc7aa5f44" name="Changes" comment="back to if else basics">
-      <change afterPath="$PROJECT_DIR$/env_check.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/list_input.py" afterDir="false" />
+    <list default="true" id="c2026324-a26e-4e38-bce5-196bc7aa5f44" name="Changes" comment="simple program that demos getting numbers from user and making it a list">
+      <change afterPath="$PROJECT_DIR$/list_basic.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -63,6 +62,7 @@
     "Python.file_shuffler.executor": "Run",
     "Python.identity_gen.executor": "Run",
     "Python.inputoutput.executor": "Run",
+    "Python.list_basic.executor": "Run",
     "Python.list_input.executor": "Run",
     "Python.variable.executor": "Run",
     "RunOnceActivity.MCP Project settings loaded": "true",
@@ -189,7 +189,15 @@
       <option name="project" value="LOCAL" />
       <updated>1771702447184</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="simple program that demos getting numbers from user and making it a list">
+      <option name="closed" value="true" />
+      <created>1771747608303</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1771747608304</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -207,7 +215,8 @@
     <MESSAGE value="Bar bpm calculater" />
     <MESSAGE value="Bar bpm calculater update (not vibe-coding now. I'm fixing everything possible)" />
     <MESSAGE value="back to if else basics" />
-    <option name="LAST_COMMIT_MESSAGE" value="back to if else basics" />
+    <MESSAGE value="simple program that demos getting numbers from user and making it a list" />
+    <option name="LAST_COMMIT_MESSAGE" value="simple program that demos getting numbers from user and making it a list" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/UtilityLab$identity_gen.coverage" NAME="identity_gen Coverage Results" MODIFIED="1769704232658" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
